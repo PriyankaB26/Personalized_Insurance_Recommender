@@ -1,0 +1,82 @@
+[
+  {
+    "type": "term",
+    "company": "HDFC Life",
+    "product": "Click 2 Protect Life",
+    "coverage": "₹1 Crore",
+    "premium": "₹8,263/year",
+    "url": "https://www.hdfclife.com/term-insurance-plans/click-2-protect-life"
+  },
+  {
+    "type": "term",
+    "company": "LIC",
+    "product": "Tech Term Plan",
+    "coverage": "₹1 Crore",
+    "premium": "₹7,890/year",
+    "url": "https://licindia.in/term-insurance/lics-tech-term-plan"
+  },
+  {
+    "type": "term",
+    "company": "TATA AIA",
+    "product": "Sampoorna Raksha Supreme",
+    "coverage": "₹1 Crore",
+    "premium": "₹8,150/year",
+    "url": "https://www.tataaia.com/life-insurance-plans/sampoorna-raksha-supreme.html"
+  },
+  {
+    "type": "term",
+    "company": "Max Life",
+    "product": "Smart Secure Plus",
+    "coverage": "₹1 Crore",
+    "premium": "₹8,499/year",
+    "url": "https://www.maxlifeinsurance.com/term-insurance-plans/smart-secure-plus-plan"
+  },
+  {
+    "type": "term",
+    "company": "ICICI Prudential",
+    "product": "iProtect Smart",
+    "coverage": "₹1 Crore",
+    "premium": "₹8,100/year",
+    "url": "https://www.iciciprulife.com/term-insurance/iprotect-smart-term-plan.html"
+  },
+  {
+    "type": "health",
+    "company": "Star Health",
+    "product": "Family Health Optima",
+    "coverage": "₹10 Lakhs (Family Floater)",
+    "premium": "₹9,450/year",
+    "url": "https://www.starhealth.in/health-insurance/family-health-optima"
+  },
+  {
+    "type": "health",
+    "company": "Niva Bupa",
+    "product": "ReAssure 2.0",
+    "coverage": "₹10 Lakhs (Individual)",
+    "premium": "₹10,300/year",
+    "url": "https://www.nivabupa.com/health-insurance-plans/reassure-2.html"
+  },
+  {
+    "type": "health",
+    "company": "HDFC ERGO",
+    "product": "Optima Restore",
+    "coverage": "₹10 Lakhs (Family)",
+    "premium": "₹9,999/year",
+    "url": "https://www.hdfcergo.com/health-insurance/optima-restore"
+  },
+  {
+    "type": "health",
+    "company": "Care Health Insurance",
+    "product": "Care Supreme",
+    "coverage": "₹10 Lakhs",
+    "premium": "₹9,800/year",
+    "url": "https://www.careinsurance.com/health-insurance/care-supreme.html"
+  },
+  {
+    "type": "health",
+    "company": "ManipalCigna",
+    "product": "ProHealth Protect",
+    "coverage": "₹10 Lakhs",
+    "premium": "₹10,200/year",
+    "url": "https://www.manipalcigna.com/health-insurance/prohealth-insurance/protect"
+  }
+]

@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+python-dotenv
+pydantic
+openai
+google-generativeai
+matplotlib
+transformers
+torch
+sentencepiece
+llama-cpp-python
