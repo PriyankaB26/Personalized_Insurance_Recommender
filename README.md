@@ -38,10 +38,7 @@ This system integrates **Google's Gemini AI**, **LangChain**, **Streamlit**, and
 ---
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/insurance-recommender.git
-   cd insurance-recommender
+1. Clone the repository
 2. Install dependencies:
 pip install -r requirements.txt
 3. Set up environment variables:
@@ -51,6 +48,7 @@ GEMINI_API_KEY=your_google_gemini_api_key
 streamlit run app.py
 
 ## Implementation
+https://github.com/user-attachments/assets/81daf927-8065-4aa6-95b4-c682f4f1953c
 
 ## Implementation Details
 
